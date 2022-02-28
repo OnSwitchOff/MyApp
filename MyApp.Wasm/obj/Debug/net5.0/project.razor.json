@@ -1,0 +1,19 @@
+{
+  "FilePath": "/home/viktor/Projects/MyApp/MyApp.Wasm/MyApp.Wasm.csproj",
+  "Configuration": {
+    "ConfigurationName": "MVC-3.0",
+    "LanguageVersion": "5.0",
+    "Extensions": [
+      {
+        "ExtensionName": "MVC-3.0"
+      }
+    ]
+  },
+  "ProjectWorkspaceState": {
+    "TagHelpers": [],
+    "CSharpLanguageVersion": 900
+  },
+  "RootNamespace": "MyApp.Wasm",
+  "Documents": [],
+  "SerializationFormat": "0.2"
+}
